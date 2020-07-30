@@ -1,3 +1,5 @@
+** Followed https://pusher.com/tutorials/instagram-clone-part-1 tutorial during a fcb class session ** 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
